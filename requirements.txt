@@ -1,0 +1,11 @@
+accelerate==1.4.0
+faiss-cpu==1.10.0
+transformers==4.49.0
+numpy==1.26.4
+langchain
+PyPDF2
+python-docx
+torch
+langchain-community
+sentence-transformers
+exceptions
