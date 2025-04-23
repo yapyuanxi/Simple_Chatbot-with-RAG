@@ -20,7 +20,7 @@ Simple_Chatbot-with-RAG/
 ├── faiss_index/            # Directory storing FAISS index
 ├── RAG Information/        # Folder containing documents (PDF and Word) to build knowledge base
 └── README.md               # This documentation
-
+```
 ## Setup Instructions
 
 1.  **Clone Repository**
