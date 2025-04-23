@@ -25,7 +25,7 @@ Simple_Chatbot-with-RAG/
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/yapyuanxi/Simple_Chatbot-with-RAG.git](https://github.com/yapyuanxi/Simple_Chatbot-with-RAG.git)
+    git clone https://github.com/yapyuanxi/Simple_Chatbot-with-RAG.git
     cd Simple_Chatbot-with-RAG
     ```
 
