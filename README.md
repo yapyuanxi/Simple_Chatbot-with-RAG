@@ -10,7 +10,9 @@ This repository provides an implementation of a conversational AI chatbot levera
 * **Interactive Interface:** Utilizes Streamlit to create an intuitive and interactive chatbot interface.
 * **Support for PDF and Word Files:** Automatically extracts and processes content from PDF and Word documents for creating the knowledge base.
 
-## Project Structure ##
+## Project Structure
+
+```bash
 Simple_Chatbot-with-RAG/
 ├── backend.py              # Backend logic for model loading, inference, and retrieval
 ├── frontend.py             # Streamlit frontend application
